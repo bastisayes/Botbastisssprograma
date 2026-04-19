@@ -3,7 +3,7 @@ if (-not $steamPath) {
     exit
 }
 
-$zipUrl = 'https://cdn.discordapp.com/ephemeral-attachments/1494936967534739496/1495424222707581129/Spider-Man_Remastered_1817070.zip?ex=69e631d6&is=69e4e056&hm=c00b0cd4ee0b16b9d344cafd083f12a5273ee4681dff02b488de863851a4afc2&'
+$zipUrl = 'https://cdn.discordapp.com/ephemeral-attachments/1494936967534739496/1495424782060093622/The_Forest_242760.zip?ex=69e6325b&is=69e4e0db&hm=50ee56fae0aa8f53196de1d1c77ee70e076697920923c9361f8c759c18a6829e&'
 $tempZip = "$env:TEMP\g_1494936.zip"
 $extractPath = "$env:TEMP\g_1494936_extract"
 
