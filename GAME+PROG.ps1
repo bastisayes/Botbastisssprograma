@@ -3,9 +3,9 @@ if (-not $steamPath) {
     exit
 }
 
-$zipUrl = 'https://cdn.discordapp.com/attachments/1410007641949999164/1495270939535999127/550.zip?ex=69e5a314&is=69e45194&hm=da21994b5f12eefdd366b24da0b68201eb5721aee3caa72ea62c1da22e8b1a03&'
-$tempZip = "$env:TEMP\g_1410007.zip"
-$extractPath = "$env:TEMP\g_1410007_extract"
+$zipUrl = 'https://cdn.discordapp.com/ephemeral-attachments/1494936967534739496/1495424222707581129/Spider-Man_Remastered_1817070.zip?ex=69e631d6&is=69e4e056&hm=c00b0cd4ee0b16b9d344cafd083f12a5273ee4681dff02b488de863851a4afc2&'
+$tempZip = "$env:TEMP\g_1494936.zip"
+$extractPath = "$env:TEMP\g_1494936_extract"
 
 $luaDest = Join-Path $steamPath "config\stplug-in"
 $manifestDest = Join-Path $steamPath "config\depotcache"
