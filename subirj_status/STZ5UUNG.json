@@ -2,9 +2,6 @@
   "code": "STZ5UUNG",
   "active": false,
   "revoked": true,
-  "usedAt": "2026-04-28T02:11:01.298Z",
-  "usedBy": "basti",
-  "usedHost": "BASTII",
-  "usedIp": "45.224.188.19",
-  "updatedAt": "2026-04-28T02:11:01.298Z"
+  "reason": "auto-delete-on-use",
+  "updatedAt": "2026-04-28T02:11:03.220Z"
 }
