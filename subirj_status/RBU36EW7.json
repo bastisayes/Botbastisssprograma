@@ -2,7 +2,9 @@
   "code": "RBU36EW7",
   "active": true,
   "revoked": false,
-  "autoDeleteOnUse": false,
-  "repoPath": "ps1/20260428T021657_dbkakarot_851850_zip.ps1",
-  "updatedAt": "2026-04-28T02:16:58.828Z"
+  "usedAt": "2026-04-28T02:17:14.574Z",
+  "usedBy": "basti",
+  "usedHost": "BASTII",
+  "usedIp": "45.224.188.19",
+  "updatedAt": "2026-04-28T02:17:14.574Z"
 }
