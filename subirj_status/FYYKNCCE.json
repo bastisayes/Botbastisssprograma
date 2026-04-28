@@ -2,9 +2,6 @@
   "code": "FYYKNCCE",
   "active": false,
   "revoked": true,
-  "usedAt": "2026-04-28T02:08:12.214Z",
-  "usedBy": "basti",
-  "usedHost": "BASTII",
-  "usedIp": "45.224.188.19",
-  "updatedAt": "2026-04-28T02:08:12.214Z"
+  "reason": "auto-delete-on-use",
+  "updatedAt": "2026-04-28T02:08:14.306Z"
 }
