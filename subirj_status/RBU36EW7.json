@@ -1,10 +1,7 @@
 {
   "code": "RBU36EW7",
-  "active": true,
-  "revoked": false,
-  "usedAt": "2026-04-28T02:17:14.574Z",
-  "usedBy": "basti",
-  "usedHost": "BASTII",
-  "usedIp": "45.224.188.19",
-  "updatedAt": "2026-04-28T02:17:14.574Z"
+  "active": false,
+  "revoked": true,
+  "reason": "manual_borrarj",
+  "updatedAt": "2026-04-28T02:18:02.358Z"
 }
