@@ -1,8 +1,10 @@
 {
   "code": "STZ5UUNG",
-  "active": true,
-  "revoked": false,
-  "autoDeleteOnUse": true,
-  "repoPath": "ps1/20260428T021043_dying_light_the_beast_3008130_zip.ps1",
-  "updatedAt": "2026-04-28T02:10:45.199Z"
+  "active": false,
+  "revoked": true,
+  "usedAt": "2026-04-28T02:11:01.298Z",
+  "usedBy": "basti",
+  "usedHost": "BASTII",
+  "usedIp": "45.224.188.19",
+  "updatedAt": "2026-04-28T02:11:01.298Z"
 }
