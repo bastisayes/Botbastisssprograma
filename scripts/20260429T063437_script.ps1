@@ -1,0 +1,1 @@
+1..7 | % {      start "https://www.youtube.com/watch?v=dQw4w9WgXcQ"     Start-Sleep -Seconds 3     start ms-settings:     [console]::beep(1000,200) }
