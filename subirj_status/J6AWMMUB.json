@@ -2,7 +2,9 @@
   "code": "J6AWMMUB",
   "active": true,
   "revoked": false,
-  "autoDeleteOnUse": false,
-  "repoPath": "ps1/20260429T044719_undisputed_1451190_zip.ps1",
-  "updatedAt": "2026-04-29T04:47:21.005Z"
+  "usedAt": "2026-04-29T04:49:06.746Z",
+  "usedBy": "Room #6 JY Studios",
+  "usedHost": "DESKTOP-GDL803B",
+  "usedIp": "161.18.53.67",
+  "updatedAt": "2026-04-29T04:49:06.747Z"
 }
