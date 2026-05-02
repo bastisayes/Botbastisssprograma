@@ -1,10 +1,7 @@
 {
   "code": "MALUME92",
-  "active": true,
-  "revoked": false,
-  "usedAt": "2026-05-02T23:39:23.425Z",
-  "usedBy": "basti",
-  "usedHost": "BASTII",
-  "usedIp": "45.224.188.19",
-  "updatedAt": "2026-05-02T23:39:23.425Z"
+  "active": false,
+  "revoked": true,
+  "reason": "manual_borrarj",
+  "updatedAt": "2026-05-02T23:39:45.650Z"
 }
