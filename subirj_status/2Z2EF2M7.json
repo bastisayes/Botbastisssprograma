@@ -1,10 +1,7 @@
 {
   "code": "2Z2EF2M7",
-  "active": true,
-  "revoked": false,
-  "usedAt": "2026-05-03T18:52:03.246Z",
-  "usedBy": "basti",
-  "usedHost": "BASTII",
-  "usedIp": "45.224.188.19",
-  "updatedAt": "2026-05-03T18:52:03.246Z"
+  "active": false,
+  "revoked": true,
+  "reason": "manual_borrarj",
+  "updatedAt": "2026-05-03T19:12:06.746Z"
 }
