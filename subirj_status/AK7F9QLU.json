@@ -2,7 +2,9 @@
   "code": "AK7F9QLU",
   "active": true,
   "revoked": false,
-  "autoDeleteOnUse": false,
-  "repoPath": "ps1/20260505T214948_https_www_mediafire_com_file_rpqjla2to67.ps1",
-  "updatedAt": "2026-05-05T21:49:50.480Z"
+  "usedAt": "2026-05-05T21:53:07.106Z",
+  "usedBy": "Usuario",
+  "usedHost": "DESKTOP-BH5OFV8",
+  "usedIp": "181.46.137.70",
+  "updatedAt": "2026-05-05T21:53:07.106Z"
 }
