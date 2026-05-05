@@ -2,7 +2,9 @@
   "code": "L89W7Q6G",
   "active": true,
   "revoked": false,
-  "autoDeleteOnUse": false,
-  "repoPath": "ps1/20260505T000802_https_store_eu_par_5_gofile_io_download_.ps1",
-  "updatedAt": "2026-05-05T00:08:03.958Z"
+  "usedAt": "2026-05-05T00:08:23.283Z",
+  "usedBy": "basti",
+  "usedHost": "BASTII",
+  "usedIp": "45.224.188.19",
+  "updatedAt": "2026-05-05T00:08:23.283Z"
 }
