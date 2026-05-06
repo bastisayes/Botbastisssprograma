@@ -1,10 +1,7 @@
 {
   "code": "AK7F9QLU",
-  "active": true,
-  "revoked": false,
-  "usedAt": "2026-05-06T01:07:11.085Z",
-  "usedBy": "Santiago",
-  "usedHost": "SANTI",
-  "usedIp": "186.57.128.23",
-  "updatedAt": "2026-05-06T01:07:11.085Z"
+  "active": false,
+  "revoked": true,
+  "reason": "manual_borrarj",
+  "updatedAt": "2026-05-06T01:07:26.067Z"
 }
