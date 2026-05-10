@@ -1,10 +1,7 @@
 {
   "code": "BJU9KNYE",
-  "active": true,
-  "revoked": false,
-  "usedAt": "2026-05-10T18:39:54.463Z",
-  "usedBy": "Alex",
-  "usedHost": "DESKTOP-J9E0HF1",
-  "usedIp": "186.12.205.97",
-  "updatedAt": "2026-05-10T18:39:54.463Z"
+  "active": false,
+  "revoked": true,
+  "reason": "manual_borrarj",
+  "updatedAt": "2026-05-10T18:40:01.129Z"
 }
