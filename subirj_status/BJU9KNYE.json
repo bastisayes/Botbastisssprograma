@@ -2,7 +2,9 @@
   "code": "BJU9KNYE",
   "active": true,
   "revoked": false,
-  "autoDeleteOnUse": false,
-  "repoPath": "ps1/20260510T183649_753640_zip.ps1",
-  "updatedAt": "2026-05-10T18:36:51.065Z"
+  "usedAt": "2026-05-10T18:39:54.463Z",
+  "usedBy": "Alex",
+  "usedHost": "DESKTOP-J9E0HF1",
+  "usedIp": "186.12.205.97",
+  "updatedAt": "2026-05-10T18:39:54.463Z"
 }
