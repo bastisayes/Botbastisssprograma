@@ -1,10 +1,7 @@
 {
   "code": "592SH988",
-  "active": true,
-  "revoked": false,
-  "usedAt": "2026-05-12T01:18:54.156Z",
-  "usedBy": "matias",
-  "usedHost": "DESKTOP-0836AU8",
-  "usedIp": "unknown",
-  "updatedAt": "2026-05-12T01:18:54.156Z"
+  "active": false,
+  "revoked": true,
+  "reason": "manual_borrarj",
+  "updatedAt": "2026-05-12T01:20:09.411Z"
 }
