@@ -1,10 +1,7 @@
 {
   "code": "8LFHBQ5D",
-  "active": true,
-  "revoked": false,
-  "usedAt": "2026-05-12T00:45:26.006Z",
-  "usedBy": "matias",
-  "usedHost": "DESKTOP-0836AU8",
-  "usedIp": "189.28.71.58",
-  "updatedAt": "2026-05-12T00:45:26.006Z"
+  "active": false,
+  "revoked": true,
+  "reason": "manual_borrarj",
+  "updatedAt": "2026-05-12T00:47:11.998Z"
 }
