@@ -2,7 +2,9 @@
   "code": "GJPUN54Q",
   "active": true,
   "revoked": false,
-  "autoDeleteOnUse": false,
-  "repoPath": "ps1/20260512T005805_https_www_mediafire_com_file_h5cvd98n5xi.ps1",
-  "updatedAt": "2026-05-12T00:58:06.922Z"
+  "usedAt": "2026-05-12T01:00:11.105Z",
+  "usedBy": "matias",
+  "usedHost": "DESKTOP-0836AU8",
+  "usedIp": "189.28.71.58",
+  "updatedAt": "2026-05-12T01:00:11.105Z"
 }
