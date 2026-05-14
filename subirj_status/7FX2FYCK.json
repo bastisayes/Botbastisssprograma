@@ -1,10 +1,7 @@
 {
   "code": "7FX2FYCK",
-  "active": true,
-  "revoked": false,
-  "usedAt": "2026-05-14T23:44:29.699Z",
-  "usedBy": "Maxi",
-  "usedHost": "DESKTOP-6DTMUUJ",
-  "usedIp": "181.116.201.209",
-  "updatedAt": "2026-05-14T23:44:29.699Z"
+  "active": false,
+  "revoked": true,
+  "reason": "manual_borrarj",
+  "updatedAt": "2026-05-14T23:44:43.340Z"
 }
