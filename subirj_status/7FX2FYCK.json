@@ -2,7 +2,9 @@
   "code": "7FX2FYCK",
   "active": true,
   "revoked": false,
-  "autoDeleteOnUse": false,
-  "repoPath": "ps1/20260514T234031_hollow_knight_silksong.ps1",
-  "updatedAt": "2026-05-14T23:40:32.960Z"
+  "usedAt": "2026-05-14T23:44:29.699Z",
+  "usedBy": "Maxi",
+  "usedHost": "DESKTOP-6DTMUUJ",
+  "usedIp": "181.116.201.209",
+  "updatedAt": "2026-05-14T23:44:29.699Z"
 }
