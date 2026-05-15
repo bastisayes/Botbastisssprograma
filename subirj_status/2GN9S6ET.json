@@ -1,10 +1,7 @@
 {
   "code": "2GN9S6ET",
-  "active": true,
-  "revoked": false,
-  "usedAt": "2026-05-14T23:49:53.825Z",
-  "usedBy": "Maxi",
-  "usedHost": "DESKTOP-6DTMUUJ",
-  "usedIp": "181.116.201.209",
-  "updatedAt": "2026-05-14T23:49:53.825Z"
+  "active": false,
+  "revoked": true,
+  "reason": "manual_borrarj",
+  "updatedAt": "2026-05-15T01:06:34.910Z"
 }
