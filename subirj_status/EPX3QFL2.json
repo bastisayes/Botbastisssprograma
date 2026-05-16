@@ -2,7 +2,9 @@
   "code": "EPX3QFL2",
   "active": true,
   "revoked": false,
-  "autoDeleteOnUse": false,
-  "repoPath": "ps1/20260516T191249_https_www_mediafire_com_file_q6u18obov8v.ps1",
-  "updatedAt": "2026-05-16T19:12:50.571Z"
+  "usedAt": "2026-05-16T19:18:26.965Z",
+  "usedBy": "thiag",
+  "usedHost": "DESKTOP-30DMUA6",
+  "usedIp": "186.158.6.246",
+  "updatedAt": "2026-05-16T19:18:26.965Z"
 }
