@@ -1,10 +1,7 @@
 {
   "code": "37FX5965",
-  "active": true,
-  "revoked": false,
-  "usedAt": "2026-05-17T15:06:15.798Z",
-  "usedBy": "paulo",
-  "usedHost": "PAULO",
-  "usedIp": "190.2.109.44",
-  "updatedAt": "2026-05-17T15:06:15.798Z"
+  "active": false,
+  "revoked": true,
+  "reason": "manual_borrarj",
+  "updatedAt": "2026-05-17T15:06:29.230Z"
 }
