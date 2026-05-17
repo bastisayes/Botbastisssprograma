@@ -2,7 +2,9 @@
   "code": "WQCCJ253",
   "active": true,
   "revoked": false,
-  "autoDeleteOnUse": false,
-  "repoPath": "ps1/20260517T152332_re9_3764200_zip.ps1",
-  "updatedAt": "2026-05-17T15:23:34.591Z"
+  "usedAt": "2026-05-17T15:24:51.006Z",
+  "usedBy": "Luki",
+  "usedHost": "DESKTOP-IANLUKA",
+  "usedIp": "190.104.36.85",
+  "updatedAt": "2026-05-17T15:24:51.006Z"
 }
