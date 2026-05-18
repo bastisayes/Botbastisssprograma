@@ -2,7 +2,9 @@
   "code": "DYXXWTJQ",
   "active": true,
   "revoked": false,
-  "autoDeleteOnUse": false,
-  "repoPath": "ps1/20260518T215615_1118200_zip.ps1",
-  "updatedAt": "2026-05-18T21:56:19.179Z"
+  "usedAt": "2026-05-18T22:04:34.383Z",
+  "usedBy": "USER",
+  "usedHost": "CPUD",
+  "usedIp": "186.123.212.128",
+  "updatedAt": "2026-05-18T22:04:34.383Z"
 }
