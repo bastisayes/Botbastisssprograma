@@ -2,7 +2,9 @@
   "code": "U6HDTXAT",
   "active": true,
   "revoked": false,
-  "autoDeleteOnUse": false,
-  "repoPath": "ps1/20260522T230652_https_www_mediafire_com_file_lf43n99d6lx.ps1",
-  "updatedAt": "2026-05-22T23:06:53.906Z"
+  "usedAt": "2026-05-22T23:07:22.016Z",
+  "usedBy": "Usuario",
+  "usedHost": "DESKTOP-VC6G5O0",
+  "usedIp": "186.122.2.72",
+  "updatedAt": "2026-05-22T23:07:22.017Z"
 }
