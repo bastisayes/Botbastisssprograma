@@ -2,7 +2,9 @@
   "code": "QHMTKM6Z",
   "active": true,
   "revoked": false,
-  "autoDeleteOnUse": false,
-  "repoPath": "ps1/20260522T230059_https_www_mediafire_com_file_c17hjhcw9hk.ps1",
-  "updatedAt": "2026-05-22T23:01:01.966Z"
+  "usedAt": "2026-05-22T23:01:44.894Z",
+  "usedBy": "Usuario",
+  "usedHost": "DESKTOP-VC6G5O0",
+  "usedIp": "186.122.2.72",
+  "updatedAt": "2026-05-22T23:01:44.894Z"
 }
