@@ -2,7 +2,9 @@
   "code": "HYMKMHR6",
   "active": true,
   "revoked": false,
-  "autoDeleteOnUse": false,
-  "repoPath": "ps1/20260522T232108_25_juegos.ps1",
-  "updatedAt": "2026-05-22T23:21:10.051Z"
+  "usedAt": "2026-05-22T23:22:13.832Z",
+  "usedBy": "basti",
+  "usedHost": "BASTII",
+  "usedIp": "45.224.188.19",
+  "updatedAt": "2026-05-22T23:22:13.832Z"
 }
