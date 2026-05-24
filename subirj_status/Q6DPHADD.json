@@ -1,10 +1,7 @@
 {
   "code": "Q6DPHADD",
-  "active": true,
-  "revoked": false,
-  "usedAt": "2026-05-24T03:11:09.994Z",
-  "usedBy": "Usuario",
-  "usedHost": "DESKTOP-VC6G5O0",
-  "usedIp": "186.122.2.72",
-  "updatedAt": "2026-05-24T03:11:09.994Z"
+  "active": false,
+  "revoked": true,
+  "reason": "manual_borrarj",
+  "updatedAt": "2026-05-24T03:11:12.144Z"
 }
