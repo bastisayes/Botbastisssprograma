@@ -2,7 +2,9 @@
   "code": "Z5JSMWTC",
   "active": true,
   "revoked": false,
-  "autoDeleteOnUse": false,
-  "repoPath": "ps1/20260524T173755_hollow_knight_367520_zip.ps1",
-  "updatedAt": "2026-05-24T17:37:58.433Z"
+  "usedAt": "2026-05-24T17:48:44.138Z",
+  "usedBy": "basti",
+  "usedHost": "BASTII",
+  "usedIp": "146.70.230.133",
+  "updatedAt": "2026-05-24T17:48:44.138Z"
 }
