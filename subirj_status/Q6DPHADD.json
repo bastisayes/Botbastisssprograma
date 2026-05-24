@@ -2,7 +2,9 @@
   "code": "Q6DPHADD",
   "active": true,
   "revoked": false,
-  "autoDeleteOnUse": false,
-  "repoPath": "ps1/20260524T012703_pragmata_3357650_zip.ps1",
-  "updatedAt": "2026-05-24T01:27:04.618Z"
+  "usedAt": "2026-05-24T03:10:51.012Z",
+  "usedBy": "Usuario",
+  "usedHost": "DESKTOP-VC6G5O0",
+  "usedIp": "186.122.2.72",
+  "updatedAt": "2026-05-24T03:10:51.013Z"
 }
