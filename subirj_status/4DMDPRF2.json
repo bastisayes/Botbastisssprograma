@@ -2,7 +2,9 @@
   "code": "4DMDPRF2",
   "active": true,
   "revoked": false,
-  "autoDeleteOnUse": false,
-  "repoPath": "ps1/20260524T020427_lego_batman2215200_zip.ps1",
-  "updatedAt": "2026-05-24T02:04:28.631Z"
+  "usedAt": "2026-05-24T02:07:51.453Z",
+  "usedBy": "m3san",
+  "usedHost": "SANTMDZPC",
+  "usedIp": "189.190.249.218",
+  "updatedAt": "2026-05-24T02:07:51.453Z"
 }
