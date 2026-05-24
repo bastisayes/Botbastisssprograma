@@ -2,7 +2,9 @@
   "code": "GZ7M2BM3",
   "active": true,
   "revoked": false,
-  "autoDeleteOnUse": false,
-  "repoPath": "ps1/20260524T012730_forza_horizon_5_1551360_zip.ps1",
-  "updatedAt": "2026-05-24T01:27:31.862Z"
+  "usedAt": "2026-05-24T03:11:54.171Z",
+  "usedBy": "Usuario",
+  "usedHost": "DESKTOP-VC6G5O0",
+  "usedIp": "186.122.2.72",
+  "updatedAt": "2026-05-24T03:11:54.171Z"
 }
