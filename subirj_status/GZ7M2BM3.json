@@ -1,10 +1,7 @@
 {
   "code": "GZ7M2BM3",
-  "active": true,
-  "revoked": false,
-  "usedAt": "2026-05-24T03:11:54.171Z",
-  "usedBy": "Usuario",
-  "usedHost": "DESKTOP-VC6G5O0",
-  "usedIp": "186.122.2.72",
-  "updatedAt": "2026-05-24T03:11:54.171Z"
+  "active": false,
+  "revoked": true,
+  "reason": "manual_borrarj",
+  "updatedAt": "2026-05-24T03:12:13.175Z"
 }
