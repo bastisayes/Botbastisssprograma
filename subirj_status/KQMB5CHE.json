@@ -2,7 +2,9 @@
   "code": "KQMB5CHE",
   "active": true,
   "revoked": false,
-  "autoDeleteOnUse": false,
-  "repoPath": "ps1/20260524T003030_https_www_mediafire_com_file_ni8li65ylpo.ps1",
-  "updatedAt": "2026-05-24T00:30:33.566Z"
+  "usedAt": "2026-05-24T00:32:29.761Z",
+  "usedBy": "ffeli",
+  "usedHost": "DESKTOP-E3SFVMO",
+  "usedIp": "181.46.137.83",
+  "updatedAt": "2026-05-24T00:32:29.761Z"
 }
