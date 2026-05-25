@@ -2,7 +2,9 @@
   "code": "GVXS2SJX",
   "active": true,
   "revoked": false,
-  "autoDeleteOnUse": false,
-  "repoPath": "ps1/20260525T220639_https_www_mediafire_com_file_giry21exyxf.ps1",
-  "updatedAt": "2026-05-25T22:06:41.077Z"
+  "usedAt": "2026-05-25T22:09:12.752Z",
+  "usedBy": "tomas",
+  "usedHost": "DESKTOP-FN3R1UM",
+  "usedIp": "190.216.61.122",
+  "updatedAt": "2026-05-25T22:09:12.752Z"
 }
