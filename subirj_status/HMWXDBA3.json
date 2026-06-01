@@ -2,7 +2,9 @@
   "code": "HMWXDBA3",
   "active": true,
   "revoked": false,
-  "autoDeleteOnUse": false,
-  "repoPath": "ps1/20260601T221500_https_www_mediafire_com_file_g7omy8lrqbr.ps1",
-  "updatedAt": "2026-06-01T22:15:01.757Z"
+  "usedAt": "2026-06-01T22:15:25.071Z",
+  "usedBy": "basti",
+  "usedHost": "BASTII",
+  "usedIp": "45.224.188.19",
+  "updatedAt": "2026-06-01T22:15:25.071Z"
 }
