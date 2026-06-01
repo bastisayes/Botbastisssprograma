@@ -2,7 +2,9 @@
   "code": "GSMV5Y2X",
   "active": true,
   "revoked": false,
-  "autoDeleteOnUse": false,
-  "repoPath": "ps1/20260601T230646_hollow_knight.ps1",
-  "updatedAt": "2026-06-01T23:06:47.621Z"
+  "usedAt": "2026-06-01T23:11:27.458Z",
+  "usedBy": "braia",
+  "usedHost": "DESKTOP-U979L27",
+  "usedIp": "186.158.120.79",
+  "updatedAt": "2026-06-01T23:11:27.458Z"
 }
